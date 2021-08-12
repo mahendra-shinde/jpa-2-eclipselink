@@ -8,18 +8,18 @@ public class Account {
 
 	@Id @GeneratedValue
 	@Column(name="acc_no")
-	private String accNumber;
+	private Integer accNumber;
 	
 	@Column(name="accHolder",length=30)
 	private String accHolder;
 	
 	private double balance;
 
-	public String getAccNumber() {
+	public Integer getAccNumber() {
 		return accNumber;
 	}
 
-	public void setAccNumber(String accNumber) {
+	public void setAccNumber(Integer accNumber) {
 		this.accNumber = accNumber;
 	}
 

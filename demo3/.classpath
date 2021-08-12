@@ -19,5 +19,6 @@
 	<classpathentry kind="lib" path="/jpa-libs/jta-1.1.jar"/>
 	<classpathentry kind="lib" path="/jpa-libs/mysql-connector-java-8.0.26.jar"/>
 	<classpathentry kind="lib" path="/jpa-libs/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/jpa-libs/slf4j-simple-1.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
