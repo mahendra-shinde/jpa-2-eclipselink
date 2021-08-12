@@ -1,2 +1,5 @@
 # jpa-2-eclipselink
-JPA
+
+> Java Persistence API : Build Database Centric Applications
+
+
